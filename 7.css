@@ -1,0 +1,23 @@
+
+.navbar{
+  margin: 25px;
+  padding: 0; 
+  width: 100%;
+  
+}
+
+
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:40px;
+    
+  }
+
+  .footer{
+    height: 530px;
+    background-color: #222e3a;
+    color: white;
+    padding: 100px 50px 30px 80px;
+
+  }
+
